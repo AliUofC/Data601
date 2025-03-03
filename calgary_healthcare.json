@@ -1,0 +1,36 @@
+{"Facilities":[
+	"Hospitals":[
+		{
+			"Name": "Alberta Children's Hospital",
+			"Specialty":"Pediatric",
+			"Address":"28 Oki Dr. NW"
+		}, 
+		{
+			"Name": "Peter Lougheed Centre", 
+			"Address": "3500 - 26th ave. n.e. calgary ab t1y 6j4"
+			"Nearby":["Name": "Sunridge Medical Gallery - Mental Health", "Name": "Sunridge Medical Gallery - General Ambulatory"]
+		}, 
+		{
+			"Name": "Foothills Medical Centre", 
+			"Nearby":"Tom Baker Cancer Centre", 
+			"Address":"1403 - 29th st. n.w. calgary ab t2n 2t9"
+		},
+		{
+			"Name": "Rockyview General Hospital", 
+			"Address":"7007 - 14th st. s.w. calgary ab t2v 1p9"
+		},
+		
+		"Name": "South Health Campus"
+	], 
+
+	"Nursing and residential care facilities": 
+	{
+		"Company": "Intercare Corporate Group", 
+		"Locations": [
+			"Name": "Chinook Care Centre",
+			"Name": "Southwood Care Centre", 
+			"Name": "Brentwood Care Centre"
+			]
+	}
+ ]
+}
